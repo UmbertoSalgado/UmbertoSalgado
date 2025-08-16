@@ -27,7 +27,6 @@ Meu nome é Richardson Umberto Ferreira Salgado <br/>
 
 Apaixonado por tecnologia.
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UmbertoSalgado/UmbertoSalgado/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UmbertoSalgado/UmbertoSalgado/output/github-contribution-grid-snake.svg">
