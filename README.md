@@ -9,12 +9,6 @@ Meu nome é Richardson Umberto Ferreira Salgado <br/>
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](https://discord.gg/g7fAccj8)
 
-<div>
-   <a href="https://github.com/UmbertoSalgado">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmbertoSalgado&show_icons=true&theme=github_radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbertoSalgado&layout=compact&langs_count=6&theme=github_radical"/>
-</div>
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
