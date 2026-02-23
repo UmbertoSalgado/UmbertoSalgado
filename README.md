@@ -11,8 +11,8 @@ Meu nome é Richardson Umberto Ferreira Salgado <br/>
 
 <div>
    <a href="https://github.com/UmbertoSalgado">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmbertoSalgado&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbertoSalgado&layout=compact&langs_count=6&theme=github_dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmbertoSalgado&show_icons=true&theme=github_radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmbertoSalgado&layout=compact&langs_count=6&theme=github_radical"/>
 </div>
 
 ## Tecnologias que uso no meu dia
